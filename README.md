@@ -19,4 +19,5 @@ $ pip install mechanize
 
 $ git clone https://github.com/Sunshine-ID/Noerdin
 
+
 oke sekarang script sudah terinstall
