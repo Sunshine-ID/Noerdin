@@ -26,6 +26,8 @@ oke sekarang script sudah terinstall
 
 sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
 
-cd Noerdin
+$ ls
 
-python nrdnv2.py
+$ cd Noerdin
+
+$ python nrdnv2.py
