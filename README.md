@@ -1,5 +1,5 @@
 # Command
-$ git clone https:github.com/Sunhine-ID/Noerdin
+$ git clone https://github.com/Sunshine-ID/Noerdin
 
 $ cd Noerdin
 
