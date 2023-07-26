@@ -1,6 +1,20 @@
-# Command
-$ git clone https://github.com/Sunshine-ID/Noerdin
+# CARA INSTALL SCRIPT:
+$ apt update && apt upgrade -y
 
-$ cd Noerdin
+pkg install python
 
-$ python nrdnv2.py
+pkg install git
+
+pip install stdiomask
+
+pip install requests
+
+pip install bs4
+
+pip install requests
+
+pip install rich
+
+pip install mechanize
+
+git clone https://github.com/
