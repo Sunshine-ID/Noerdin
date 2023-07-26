@@ -1,20 +1,20 @@
 # CARA INSTALL SCRIPT:
 $ apt update && apt upgrade -y
 
-pkg install python
+$ pkg install python
 
-pkg install git
+$ pkg install git
 
-pip install stdiomask
+$ pip install stdiomask
 
-pip install requests
+$ pip install requests
 
-pip install bs4
+$ pip install bs4
 
-pip install requests
+$ pip install requests
 
-pip install rich
+$ pip install rich
 
-pip install mechanize
+$ pip install mechanize
 
-git clone https://github.com/
+$ git clone https://github.com/Sunshine-ID/Noerdin
