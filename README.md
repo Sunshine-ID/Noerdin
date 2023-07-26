@@ -1,4 +1,4 @@
-# Command/Perintah
+# Command
 $ git clone https:github.com/Sunhine-ID/Noerdin
 
 $ cd Noerdin
