@@ -30,8 +30,8 @@ $ ls
 
 $ cd Noerdin
 
-git pull
+$ git pull
 
-ls
+$ ls
 
 $ python nrdnv3.py
