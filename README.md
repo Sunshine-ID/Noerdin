@@ -17,4 +17,4 @@ $ pip install rich
 
 $ pip install mechanize
 
-#MAINTENCE
+# MAINTENCE
