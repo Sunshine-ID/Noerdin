@@ -17,21 +17,4 @@ $ pip install rich
 
 $ pip install mechanize
 
-$ git clone https://github.com/Sunshine-ID/Noerdin
-
-
-oke sekarang script sudah terinstall
-
-# CARA MENJALANKAN SCRIPT:
-
-sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
-
-$ ls
-
-$ cd Noerdin
-
-$ git pull
-
-$ ls
-
-$ python nrdnnn.py
+#MAINTENCE
