@@ -23,6 +23,6 @@ $ git clone https://github.com/Sunshine-ID/Noerdin
 
 $ cd Noerdin
 
-git pull
+$ git pull
 
 $ python mfbV2.py
