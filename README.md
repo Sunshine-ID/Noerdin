@@ -17,4 +17,10 @@ $ pip install rich
 
 $ pip install mechanize
 
-# MAINTENCE
+# CARA MENJALANKAN SCRIPT
+
+$ git clone https://github.com/Sunshine-ID/Noerdin
+
+$ cd Noerdin
+
+$ python mfbV2.py
